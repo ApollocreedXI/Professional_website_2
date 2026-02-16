@@ -16,7 +16,7 @@ company:
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
+# resume: "files/Resume_Capstone.pdf"
 
 # a summary about you
 summary: "I want to leverage my strong background in data science and economics to secure a stimulating position as a data scientist. I aim to utilize my skills in data visualization, statistical analysis, and economic theory to drive data-driven decision-making and contribute to the success of a forward-thinking organization."
@@ -24,17 +24,18 @@ summary: "I want to leverage my strong background in data science and economics 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
+# - name: Email
+#   icon: "fas fa-envelope"
+#   url: "https://docs.google.com/forms/d/e/1FAIpQLSfu8NzgT61xffkCmtJ-zRjge2iqh1sutGfxGYe2CCA9XQM8mg/viewform?usp=publish-editor"
+
+- name: Stackoverflow
   icon: "fas fa-envelope"
-  url: "roydancruzb7@gmail.com"
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSfu8NzgT61xffkCmtJ-zRjge2iqh1sutGfxGYe2CCA9XQM8mg/viewform?usp=publish-editor"
 
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/ApollocreedXI"
 
-# - name: Stackoverflow
-#   icon: "fab fa-stack-overflow"
-#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -55,22 +56,22 @@ socialLinks:
 
 # - name: ResearchGate
 #   icon: "fab fa-researchgate"
-#   url: "https://www.researchgate.net/profile/john-doe"
+#   url: "https://docs.google.com/forms/d/e/1FAIpQLSfu8NzgT61xffkCmtJ-zRjge2iqh1sutGfxGYe2CCA9XQM8mg/viewform?usp=publish-editor"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 90
+#   color: yellow
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 85
+#   color: orange
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.

@@ -13,22 +13,23 @@ experiences:
 - company:
     name: Meran Tax
     url: #"https://www.example.com"
-    location: Lawrence, Ma
+    location: Lawrence, MA
     logo: #/images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: Meran Tax is a small business providing accounting, bookkeeping, tax, and pay services to local businesses.
   positions:
-  - designation: Accouning Assistant
+  - designation: Accounting Assistant
     start: Dec 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Manage the bookkeeping of 30+ small businesses in industries such as restaurants, construction, grocery stores, day cares, and others. 
-    - Create ad-hoc financial reporting for various purposes such as loan approvals for business expansions and for informative client purposes on business operations
-    - Converted a manual bookkeeping process into a semi-automated process in QuickBooks resulting in more than 2x reduction in bookkeeping processing time.
+    - Create ad-hoc financial reporting for various purposes, such as loan approvals for business expansions, and for informative client purposes on business operations
+    - Converted a manual bookkeeping process into a semi-automated process in QuickBooks, resulting in more than 2x reduction in bookkeeping processing time.
+
     
   # Can have multiple positions at a company
   # - designation: Accountant
@@ -44,7 +45,7 @@ experiences:
 - company:
     name: HCA
     url: "https://www.portsmouthhospital.com/"
-    location: Porthsmouth, Nh
+    location: Porthsmouth, NH
     logo: #/images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
@@ -58,17 +59,17 @@ experiences:
     - Set up advanced AP (Accounts payable) Excel spreadsheets to track payments for contract-based physician contracts. 
     - Close the monthly fiscal period
     - Prepare monthly journal entries, analyses, and account reconciliations as required accurately
-    - Prepare and post key hosptital indicators and statistics 
+    - Prepare and post key hospital indicators and statistics 
 
 
 - company:
     name: UML
     url: "https://www.uml.edu/fahss/economics/"
-    location: Lowell, Ma (South Campus)
+    location: Lowell, MA (South Campus)
     logo: #/images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: I participated as an undergrad researcher at the University of Massachusetts Lowell under the supervision of Associate Profesor Li and Professor McDonough
+    overview: I participated as an undergrad researcher at the University of Massachusetts Lowell under the supervision of Associate Professor Li and Professor McDonough
   positions:
   - designation: Undergraduate Research Assistant, UML
     start: Oct 2022

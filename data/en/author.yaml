@@ -1,6 +1,6 @@
 # some information about you
 name: "Roydan Cruz"
-nickname: "Roy"
+nickname: "Roydan"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/Roydan2.png"
@@ -10,12 +10,11 @@ contactInfo:
   # phone: "+0123456789"
   # github: johndoe
   # linkedin: johndoe
-  researchgate: roydan_cruz
+  # researchgate: roydan_cruz
 
 # some summary about what you do
 summary:
   - I'm a Data Science graduate student
-  - I find facinating conducting causal analysis
-  - I have rigorous theortical economic training
-  - I have significant experience with statistical learning methods
-  - I am looking to break into the tech sector
+  - I have a passion for ethical data science
+  - I enjoy learning about emerging neural network architectures
+  - I am looking for a stimulating position as a data scientist

@@ -36,7 +36,7 @@ projects:
   timeline: "Mar 2025"
   repo: https://github.com/ApollocreedXI/Home-Value-Predictions
   #url: ""
-  summary: This project centered on utilizing Iowa home sales data to investigate what features are most important to a property's valuation and how accurately a home pricec be predicted using regularized linear regression
+  summary: This project centered on utilizing Iowa home sales data to investigate what features are most important to a property's valuation and how accurately home prices can be predicted using regularized linear regression
   tags: ["Machine Learning"]
 
 - name: History of Computer Vision

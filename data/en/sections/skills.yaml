@@ -27,43 +27,43 @@ buttons:
 skills:
 - name: Scikit-learn
   logo: /images/sections/skills/scikit-learn.png
-  summary: "Have utilized this machine learning library on a breath of projects for data preprocessing, model training, and evaluation"
+  summary: "Open source machine learning library for predictive analytics. I continuously utilize this machine learning library for data preprocessing, model training, and evaluation"
   categories: ["Machine Learning"]
   url: "https://scikit-learn.org/stable/index.html"
 
 - name: Pandas
   logo: /images/sections/skills/pandas.png
-  summary: "A powerful data analysis library for data manipulation. Over the course of my graduate program I have developed deep knowlege of the packages intricacies for advanced data cleaning, preprocessing, and profiling"
+  summary: "A powerful data analysis library for data manipulation. Over the course of my graduate program, I have developed deep knowledge of the package's intricacies for advanced data cleaning, preprocessing, and profiling."
   categories: ["Machine Learning"]
   url: "https://pandas.pydata.org/pandas-docs/stable/index.html"
 
 - name: Keras
   logo: /images/sections/skills/keras.png
-  summary: "A high-level deep-learning API for creating sophisticated neural network architectures. I have applied my theortical training of neural networks directly with this API to create sophisticated models for regression and image classification"
+  summary: "A high-level deep-learning API for creating sophisticated neural network architectures. I have worked with this API to create sophisticated models for regression and image classification based on principal neural network architectural practices."
   categories: ["Machine Learning"]
   url: "https://keras.io/"
 
 
 - name: Streamlit
   logo: /images/sections/skills/streamlit.png
-  summary: "A powerful package useful for efficient dashboard development. The package holds rich features for interactive visualization, making visualizations more engaging and informative. I have experience utilzing this package for developing a dashboard for key economic indicators, as well as a dashboard for key climate change indicatiors."
+  summary: "A powerful library for efficient dashboard development. The package holds rich features for interactive visualization, making visualizations more engaging and informative. I have experience utilizing this package for developing a dashboards for key economic indicators, as well as a dashboards for key climate change indicators."
   categories: ["Data Visualization"]
   url: "https://streamlit.io/"
 
 - name: Matplotlib
   logo: /images/sections/skills/matplotlib.png
-  summary: "A popular and comprehensive visualization library utilzed for data visualization. Over the years I have dveloped deep understanding of this visualization library, for which primaraly utilize it for basic exploratory data analysis and figure customization of other libraries build off of Matplotlib.  "
+  summary: "A popular and comprehensive visualization library utilized for data visualization. Over the years, I have dveloped deep understanding of this visualization library, and rely on the library for primitive exploratory data analysis and figure customization of other libraries built on Matplotlib."
   categories: ["Data Visualization"]
 
 - name: Seaborn
   logo: /images/sections/skills/Seaborn.png
-  summary: "A statistical data visualization library that builds on top of Matplotlib. The library has a high-level interface that I have learned to appreciate over the years. I utlize this package for more complex static visualization due to its improved preset designs."
+  summary: "A statistical data visualization library that is built on top of Matplotlib. The library has a high-level interface that I have learned to appreciate over the years. I utilize this package for more complex static visualizations due to its improved preset designs."
   categories: ["Data Visualization"]
   url: "https://seaborn.pydata.org/"
 
 - name: Altair
   logo: /images/sections/skills/Altair.png
-  summary: "A powerful declarative visualization library with rich interactive tools for deeper more engaging visualizations. One of my go to visualization libraries for its rich customization and interactive features."
+  summary: "A powerful declarative visualization library with rich interactive tools for deeper, more engaging visualizations. One of my go-to visualization libraries for its rich customization and interactive features."
   categories: ["Data Visualization"]
   url: "https://altair-viz.github.io/getting_started/overview.html"
 
@@ -80,10 +80,10 @@ skills:
 
 - name: Python
   logo: /images/sections/skills/python-logo_imresizer.png
-  summary: "Experience with in the object-oriented programming language for advanced data manipulation and analysis."
+  summary: "Experience with the object-oriented programming language for advanced data manipulation and analysis."
   categories: ["language"]
 
 - name: SQL
   logo: #/images/sections/skills/python-logo_imresizer.png
-  summary: "Have knowlege of SQL programming for database data extraction and query optimization."
+  summary: "A structured query language for interacting with structured data stored in a database. Through an advanced database graduate course, I have acquired deep knowledge of database best practices and how to implement this via SQL."
   categories: ["language"]
